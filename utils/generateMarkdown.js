@@ -74,14 +74,16 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Table of Contents:
-  * [Project Description](#Description)
-  * [Acknowledgements](#Acknowledgments)
-  * [Installation](#Installation)
-  * [Tests](#Tests)
-  * [Deployment](#Deployment)
-  * [License](#License)
+  1. [Project Links](#Links)
+  2. [Project Description](#Description)
+  3. [Acknowledgements](#Acknowledgments)
+  4. [Installation](#Installation)
+  5. [Tests](#Tests)
+  6. [License](#License)
 
-## Description:
+# Project Links:
+
+# Description:
 ${data.description}
 # Acknowledgments
 ${data.acknowledgments}
@@ -89,7 +91,7 @@ ${data.acknowledgments}
 ${data.installation}
 # Tests
 ${data.tests}
-## License
+# License
 ${renderLicenseBadge(data)}
 ${renderLicenseLink(data)}
 ${renderLicenseSection(data)}
