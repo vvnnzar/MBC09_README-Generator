@@ -31,7 +31,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "What unit tests should be taken to verify your project?",
+    message: "What tests should be taken to verify your project?",
     name: "tests",
   },
   {
