@@ -1,22 +1,34 @@
-# sgsdgd
+# README File Generator
 
-  ## Table of Contents:
-  * [Project Description](#Description)
-  * [Acknowledgements](#Acknowledgments)
-  * [Installation](#Installation)
-  * [Tests](#Tests)
-  * [Deployment](#Deployment)
-  * [License](#License)
+## Table of Contents:
 
-## Description:
-gsdgsd
+- [Project Links](#Links)
+- [Project Description](#Description)
+- [Acknowledgements](#Acknowledgments)
+- [Installation](#Installation)
+- [Tests](#Tests)
+- [License](#License)
+
+# Project Links:
+
+# Description:
+
+Allows the creation of a README file using node command-line application
+
 # Acknowledgments
-gsdgsd
+
+Bootcamp Collateral
+
 # Installation
-sgddsg
+
+Clone GitHub project to local repository and create a new branch
+
 # Tests
-gsdgsd
-## License
+
+Open index.js in integrated terminal and execute code using node index.js
+
+# License
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 <a href = "https://opensource.org/licenses/MIT">License Link</a>
 <a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide</a>
