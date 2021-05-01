@@ -12,6 +12,8 @@
 # Project Links:
 ![Video](https://github.com/vvnnzar/MBC09_README-Generator/tree/main/Video)
 
+https://vvnnzar.github.io/MBC09_README-Generator/
+
 # Description:
 
 Allows the creation of a README file using node command-line application
